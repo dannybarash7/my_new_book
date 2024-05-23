@@ -1,1 +1,3 @@
 # my_new_book
+
+It was a warm dry afternoon in Be'er Sheva...
